@@ -1,0 +1,39 @@
+
+.content{
+    display: flex;
+    gap: 50px;
+}
+.c1{
+    margin-top: 10px;
+}
+.c1r1 div{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.c1r2 div{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+#video{
+    width: 460px;
+    margin: 20px;
+    box-shadow: 0px 0px 12px gray;
+    border-radius: 10px;
+    
+}
+.c2{
+    margin-top: 20px;
+}
+.c2r2,.c2r3{
+    display: flex;
+    gap: 30px;
+    text-align: left;
+}
+.video{
+    text-align: center;
+    background-color: rgb(161, 166, 171);
+    margin: 20px;
+    border-radius: 10px;
+}
